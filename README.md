@@ -1,2 +1,5 @@
-# Burger_Builder
-A REACT app for building a burger
+# Burger Builder
+Javascript SPA for building the "Perfect Burger"
+
+## Description
+Built using React.js.
